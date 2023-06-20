@@ -13,11 +13,13 @@ h1 {
     padding-top: 1em;
     padding-bottom: 1em;
     text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 h2 {
     font-size: 1.5em;
     padding-bottom: 1em;
+    color: aquamarine;
 }
 
 h3 {
@@ -71,4 +73,12 @@ table td {
 }
 table th {
     background-color: aquamarine;
+}
+footer {
+    background-color: rgb(7, 104, 110);
+    padding: 10px;
+}
+footer p {
+    color:rgb(183, 246, 225);
+    text-align: center;
 }
